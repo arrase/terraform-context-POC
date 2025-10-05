@@ -1,4 +1,4 @@
-# Terraform Graph to Neo4j Ingestion
+# Terraform Graph to Neo4j Ingestion [POC]
 
 This project automates the ingestion of Terraform's dependency graph into a Neo4j database for analysis and visualization. It also provides a pattern for using the ingested graph as structured context for an AI agent via a Model-Context-Protocol (MCP).
 
