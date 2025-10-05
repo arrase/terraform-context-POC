@@ -1,4 +1,5 @@
 **/.terraform
+**/.terraform.lock.hcl
 # Python
 __pycache__/
 *.py[cod]
